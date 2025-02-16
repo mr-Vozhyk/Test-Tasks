@@ -4,7 +4,9 @@
 
 > Согласно условию:
 > > 1ый подарок – Power bank с объяснением выбора
-> > 2ой подарок – необычный 
+> > 
+> > 2ой подарок – необычный
+> > 
 > > 3ий – дополнительный на фантазию
 
 
@@ -14,7 +16,7 @@
 Поиск TOP-3 компаний лидеров IT-отрасли для уменьшения субъективного восприятия отличительных ценностей сотрудников IT-компаний, а также для их приоритезации
 в разрезе трендов и развития IT-сферы.
 ```
-[Импорт релевантного исследования Times с лучшими мировыми компаниями в Google Sheets и написание Query-запроса]
+Импорт релевантного исследования Times с лучшими мировыми компаниями в Google Sheets и написание Query-запроса
 ```
 - Анализ заявляемых ценностей у лидеров IT-отрасли
 - Написание рекомендаций по подбору подарков
@@ -27,7 +29,7 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_%5BPowerPoint_%26_Goog
 )
 
 ## :hammer_and_wrench:  
-<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/14_Google%20Sheets.svg"    title="Google Sheets"       alt="Google Sheets"       width="40" height="40"/> <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/15_Power%20Point.svg"      title="Отчет в Power Point (pdf)"         alt="Power Point"         width="40" height="40"/>
+<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/14_Google%20Sheets.svg"    title="Google Sheets"       alt="Google Sheets"       width="40" height="40"/> <img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/15_Power%20Point.svg"      title="Power Point"         alt="Power Point"         width="40" height="40"/>
 
 
 #GoogleSheets #Query #PowerPoint #Целевая_аудитория ...
