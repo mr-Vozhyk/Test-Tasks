@@ -1,0 +1,14 @@
+	Гугл-документ с решенным SQL-заданием:
+https://docs.google.com/document/d/1QqdoSELEd5vF3y1a73G1h4R8uMsyPdO0pe3Kden5dgU/edit?usp=sharing
+
+	Файл Power BI с решенным BI-заданием:
+https://drive.google.com/file/d/1F8hP3P7DfILGMtTnDw-bIRpX_qHUwXzI/view?usp=sharing
+
+
+Дополнительные ссылки:
+
+	Google Colab Блокнот с ходом решения SQL-задач и подключением к PostgreSQL серверу:
+https://colab.research.google.com/drive/1yPfDQeo36oEA5rj1a1jyv92e63AhmEgZ?usp=sharing
+
+	Гугл-таблица с тремя таблицами с пробными данными для SQL-задач:
+https://docs.google.com/spreadsheets/d/1YUKU4uqINC6F33hjm7GlCQOfWDz-4me4TLHMN5o9wlI/edit?usp=sharing
