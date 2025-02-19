@@ -22,7 +22,7 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_risk_%5BGoogleColab-Py
 > #Plotly
 > #Analysis 
 > #SQL 
-> #PostgreSQL 
+> #PostgreSQL...
 
 ----
 
@@ -35,7 +35,13 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_e-commerce_%5BExcel%5D
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_e-commerce_%5BExcel%5D/%D0%A2%D0%97_Excel-2-of-3.xlsx) [<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/13_Excel.svg"    title="Решение 3 уровень сложности (Excel)"  alt="Excel"  width="40" height="40"/>](
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_e-commerce_%5BExcel%5D/%D0%A2%D0%97_Excel-3-of-3.xlsx)
 
-> #Excel   #Сводные_таблицы_&_диаграммы  #Поиск_решения   #Vlookup   #Index   #Match   #Множественные_условия
+> #Excel 
+> #Сводные_таблицы_&_диаграммы  
+> #Поиск_решения   
+> #Vlookup   
+> #Index   
+> #Match   
+> #Множественные_условия...
 
 ----
 
@@ -50,7 +56,14 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_e-commerce_%5BExcel%5D
 [<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/13_Excel.svg"    title="Решение (Excel)"  alt="Excel"  width="40" height="40"/>](
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_marketplace_%5BExcel%5D/%D0%A2%D0%97_Excel-marketplace.xlsx)
 
-> #Excel  #Analysis  #Sales  #Сводные_таблицы_&_диаграммы  #Множественные_условия  #Vlookup   #Index  #Match   
+> #Excel  
+> #Analysis  
+> #Sales  
+> #Сводные_таблицы_&_диаграммы  
+> #Множественные_условия  
+> #Vlookup   
+> #Index  
+> #Match...   
 
 ----
 
@@ -61,13 +74,18 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_marketplace_%5BExcel%5
 
 - Написание SQL-запросов к базе данных с тремя таблицами [2 задачи]. 
 
-> #PostgreSQL #JOINs
+> #PostgreSQL 
+> #JOINs...
 
 #### Часть №2 - Excel
 
 Решение ситуативных задач с использованием формул [2 задачи]
 
-> #Excel #Vlookup #Index #Match #Множественные_условия
+> #Excel 
+> #Vlookup 
+> #Index 
+> #Match 
+> #Множественные_условия...
 
 #### Часть №3 - Excel. Анализ
 
@@ -76,7 +94,8 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_marketplace_%5BExcel%5
 [<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/13_Excel.svg"    title="Решение (SQL + Excel)"  alt="Excel"  width="40" height="40"/>](
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_telecom_%5BSQL_Excel%5D/%D0%A2%D0%97_SQL%2BExcel_(LIMIT-60-min).xlsx)
 
-> #Excel #Analysis
+> #Excel 
+> #Analysis...
 
 ----
 
@@ -92,7 +111,7 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_telecom_%5BSQL_Excel%5
 > #ETL
 > #DAX
 > #Visualization
-> #Analysis
+> #Analysis...
 
 #### Задание №2 - SQL_задание
 > результатом ожидается текстовый файл с SQL-запросами по задачам [7 задач]
@@ -114,7 +133,7 @@ https://docs.google.com/spreadsheets/d/1YUKU4uqINC6F33hjm7GlCQOfWDz-4me4TLHMN5o9
 > #SQL
 > #PostgreSQL
 > #JOINs
-> #Window_function 
+> #Window_function...
 
 ----
 
@@ -128,7 +147,13 @@ https://docs.google.com/spreadsheets/d/1UoAk8QVw1oDt2iqLB-4GRjDM3BfzKsI_74a1WT1w
 https://docs.google.com/spreadsheets/d/15cqccC5ugM41fiWM_wmXvNzjDuP_dQ1uIUA1kcil5hk/edit?usp=sharing
 )
 
-> #GoogleSheets #Visualization #Digital-marketing #Analysis #Query #ImportRange #Sparkline
+> #GoogleSheets 
+> #Visualization 
+> #Digital-marketing 
+> #Analysis 
+> #Query 
+> #ImportRange 
+> #Sparkline...
 
 ----
 
@@ -142,7 +167,12 @@ https://docs.google.com/spreadsheets/d/15cqccC5ugM41fiWM_wmXvNzjDuP_dQ1uIUA1kcil
 [<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/13_Excel.svg"    title="Решение (Excel"  alt="Решение (Excel)"  width="40" height="40"/>](
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_%5BSQL_GoogleSheets_Excel%5D/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%A2%D0%97-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA-%D0%9A%D0%BE%D0%BF%D0%BE%D1%82%D1%8C-Excel_02.2025.xlsx)
 
-> #Excel #Vlookup #Index #Match #Множественные_условия #Текстовые_формулы
+> #Excel 
+> #Vlookup 
+> #Index 
+> #Match 
+> #Множественные_условия 
+> #Текстовые_формулы...
 
 #### Задание №2 - SQL
 
@@ -152,7 +182,9 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_%5BSQL_GoogleSheets_Ex
 [<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/1_PostgreSQL.svg"         title="Решение (SQL)"      alt="PostgreSQL"     width="40" height="40"/>](
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_%5BSQL_GoogleSheets_Excel%5D/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%A2%D0%97-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA-%D0%9A%D0%BE%D0%BF%D0%BE%D1%82%D1%8C-SQL_02.2025.docx)
 
-> #PostgreSQL #CREATE_INDEX #JOINs
+> #PostgreSQL 
+> #CREATE_INDEX 
+> #JOINs...
 
 #### Задание №3 - Визуализация и анализ данных
 
@@ -161,7 +193,13 @@ https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_%5BSQL_GoogleSheets_Ex
 [<img src="https://github.com/mr-Vozhyk/Bio-icon/blob/main/14_Google%20Sheets.svg"  title="Решение визуализация и анализ (Google Sheets)"  alt="Google Sheets"  width="40" height="40"/>](
 https://docs.google.com/spreadsheets/d/13FS2-bFJSBpFmxSemDGJdAPd5YC8oiWXaCURHecBA8c/edit?usp=sharing)
 
-> #GoogleSheets #Analysis #Query # Sparkline #Vlookup #Index #Match 
+> #GoogleSheets 
+> #Analysis 
+> #Query 
+> #Sparkline 
+> #Vlookup 
+> #Index 
+> #Match...
 
 ----
 
@@ -177,7 +215,7 @@ https://docs.google.com/spreadsheets/d/1J7lp7py6saUo0vPQCMDX3mwX4FlGCiC198tzjcKM
 > #Query 
 > #Vlookup 
 > #Index 
-> #Match ...
+> #Match...
 
 ----
 
@@ -190,7 +228,10 @@ https://docs.google.com/spreadsheets/d/1J7lp7py6saUo0vPQCMDX3mwX4FlGCiC198tzjcKM
 https://github.com/mr-Vozhyk/Test-Tasks/blob/main/Analyst_%5BPowerPoint_%26_GoogleSheets%5D/%D0%A2%D0%97_%D0%9F%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-IT-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9.pdf
 )
 
-> #GoogleSheets #Query #PowerPoint #Целевая_аудитория ...
+> #GoogleSheets 
+> #Query 
+> #PowerPoint 
+> #Целевая_аудитория...
 
 ----
 
